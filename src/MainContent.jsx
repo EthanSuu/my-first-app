@@ -6,7 +6,7 @@ export default class MainContent extends Component {
     customersCount: 5,
     customers: [
       {
-        id: 11,
+        id: 1,
         name: "Scott",
         phone: "123-456",
         address: { city: "New Delhi" },
