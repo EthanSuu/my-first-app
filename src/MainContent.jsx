@@ -55,7 +55,7 @@ export default class MainContent extends Component {
         <h4 className="m-1 p-1">
           {this.state.pageTitle}
 
-          <span className="badge badge-secondary m-2">
+          <span className="badge bg-secondary m-2">
             {this.state.customersCount}
           </span>
 
